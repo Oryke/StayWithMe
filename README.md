@@ -12,7 +12,7 @@ Instead of expecting users to adapt to technology, StayWithMe asks a different q
 ## Table of Contents
 
 - [Project Status](#project-status)
-- [Why StayWithMe?](#why-staywithme)
+- [Why Stay With Me?](#why-stay-with-me)
 - [Our Approach](#our-approach)
 - [Documentation](#documentation)
 - [Project Roadmap](#project-roadmap)
