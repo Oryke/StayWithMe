@@ -16,7 +16,7 @@ StayWithMe is currently focused on understanding the challenges faced by older a
 
 We believe the best products begin with understanding people—not writing code.
 
-# Why StayWithMe?
+## Why StayWithMe?
 
 Smartphones have become essential for communication, healthcare, banking, education, and countless everyday activities.
 
@@ -28,7 +28,7 @@ But because today's technology often assumes users already understand how everyt
 
 StayWithMe exists to explore a more supportive approach—one that helps people learn with confidence instead of fear.
 
-# Our Approach
+## Our Approach
 
 Rather than jumping straight into development, StayWithMe follows a research-first process.
 
@@ -42,24 +42,24 @@ Current priorities include:
 - Exploring accessible interaction patterns.
 - Building in public.
 
-# Documentation
+## Documentation
 
 The project documentation lives inside the `docs` directory.
 
 | Document | Purpose |
 |----------|---------|
-| `problem-statement.md` | Defines the problem StayWithMe aims to solve. |
-| `research.md` | Captures observations, assumptions, and future research plans. |
-| `design-principles.md` | Documents the principles guiding every design decision. |
-| `user-personas.md` | Introduces representative users and their needs. |
+| [Problem Statement](docs/problem-statement.md) | Defines the problem StayWithMe aims to solve. |
+| [Research](docs/research.md) | Captures observations, assumptions, and future research plans. |
+| [Design Principles](docs/design-principles.md) | Documents the principles guiding every design decision. |
+| [User Personas](docs/user-personas.md) | Introduces representative users and their needs. |
 
 Additional project documents include:
 
-- `ROADMAP.md`
-- `CONTRIBUTING.md`
-- `CHANGELOG.md`
+- [Project Roadmap](ROADMAP.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
 
-# Project Roadmap
+## Project Roadmap
 
 The project will evolve through six phases:
 
@@ -70,10 +70,11 @@ The project will evolve through six phases:
 - ⏳ Community Testing
 - ⏳ Public Release
 
-See `ROADMAP.md` for the complete roadmap.
+See the [Project Roadmap](ROADMAP.md) for the complete development plan.
 
-# Repository Structure
+## Repository Structure
 
+```text
 StayWithMe/
 │
 ├── docs/
@@ -87,16 +88,17 @@ StayWithMe/
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
+```
 
-# Contributing
+## Contributing
 
 Contributions of every size are welcome.
 
 Whether you're improving documentation, sharing research, reporting bugs, suggesting ideas, or writing code, your contribution helps move StayWithMe forward.
 
-Please read `CONTRIBUTING.md` before opening an Issue or Pull Request.
+Please read the [Contributing Guide](CONTRIBUTING.md) before opening an Issue or Pull Request.
 
-# Looking Ahead
+## Looking Ahead
 
 StayWithMe is more than an application.
 
