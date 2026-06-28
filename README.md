@@ -8,6 +8,19 @@ Instead of expecting users to adapt to technology, StayWithMe asks a different q
 
 > **What if technology could patiently walk alongside people instead of expecting them to already know what to do?**
 
+---
+## Table of Contents
+
+- [Project Status](#project-status)
+- [Why StayWithMe?](#why-staywithme)
+- [Our Approach](#our-approach)
+- [Documentation](#documentation)
+- [Project Roadmap](#project-roadmap)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
+- [Looking Ahead](#looking-ahead)
+---
+
 ## Project Status
 
 **Current Stage:** Research & Discovery
@@ -59,6 +72,17 @@ Additional project documents include:
 - [Contributing Guide](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 
+## Getting Started
+
+If you're exploring StayWithMe for the first time, here's a suggested path through the project:
+
+1. Read the [Problem Statement](docs/problem-statement.md) to understand the challenge we're addressing.
+2. Explore the [Research](docs/research.md) to learn about the project's current findings and assumptions.
+3. Review the [Design Principles](docs/design-principles.md) that guide every decision.
+4. Meet the [User Personas](docs/user-personas.md) to understand who we're designing for.
+5. Explore the [Project Roadmap](ROADMAP.md) to see what's planned next.
+6. Read the [Contributing Guide](CONTRIBUTING.md) if you'd like to participate in the project.
+
 ## Project Roadmap
 
 The project will evolve through six phases:
@@ -105,3 +129,5 @@ StayWithMe is more than an application.
 It's an exploration of what technology could look like if it were designed to teach with patience, encourage confidence, and make digital experiences more accessible for everyone.
 
 We're just getting started.
+
+Whether you're here to learn, share ideas, improve documentation, or contribute to future development, thank you for being part of the journey.
