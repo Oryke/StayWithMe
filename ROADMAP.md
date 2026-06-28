@@ -2,7 +2,7 @@
 
 StayWithMe is being developed in phases to ensure each stage is thoughtfully researched, designed, and validated before moving into implementation.
 
-# Phase 1 — Project Foundation ✅
+# Phase 1 — Project Foundation
 
 Establish the project's vision, documentation, and planning.
 
