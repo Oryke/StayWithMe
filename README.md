@@ -1,54 +1,105 @@
 # StayWithMe
 
-> A research-first open-source initiative exploring how technology can become a patient guide for older adults and first-time smartphone users.
+> *Helping people build confidence with smartphones through patient, step-by-step guidance.*
 
-## 🚧 Status
+StayWithMe is an open-source, research-driven project exploring how technology can become more patient, accessible, and empowering for people who are learning to use smartphones.
 
-StayWithMe is currently in its research and discovery phase.
+Instead of expecting users to adapt to technology, StayWithMe asks a different question:
 
-This repository exists to explore a simple question:
+> **What if technology could patiently walk alongside people instead of expecting them to already know what to do?**
 
-> What if technology could patiently walk alongside people instead of expecting them to already know what to do?
+## Project Status
 
-## The Problem
+**Current Stage:** Research & Discovery
 
-As technology evolves, many people are unintentionally left behind.
+StayWithMe is currently focused on understanding the challenges faced by older adults, first-time smartphone users, and anyone with limited digital confidence before moving into design and development.
 
-Older adults, first-time smartphone users, and people with limited digital confidence often depend on family members or friends to complete everyday tasks on their phones. The challenge isn't a lack of intelligence—it's that modern technology rarely teaches people while they're using it.
+We believe the best products begin with understanding people—not writing code.
 
-StayWithMe exists to rethink that experience.
+# Why StayWithMe?
 
-## The Vision
+Smartphones have become essential for communication, healthcare, banking, education, and countless everyday activities.
 
-To explore and build technology that gently guides people through digital tasks with confidence, patience, and accessibility.
+Yet millions of people still struggle with tasks many of us take for granted.
 
-Rather than replacing human help, StayWithMe aims to make everyday technology feel less overwhelming and more approachable.
+Not because they're incapable.
 
-## Current Focus
+But because today's technology often assumes users already understand how everything works.
 
-For now, this repository is a place to:
+StayWithMe exists to explore a more supportive approach—one that helps people learn with confidence instead of fear.
 
-- Research digital accessibility challenges.
-- Understand the experiences of older adults and first-time smartphone users.
-- Explore ideas for contextual guidance and voice-assisted navigation.
-- Build in public.
+# Our Approach
 
-If this mission resonates with you, I'd love to have you contribute your thoughts and ideas.
+Rather than jumping straight into development, StayWithMe follows a research-first process.
 
-## Why This Matters
+Every stage of the project is guided by documentation, thoughtful planning, and a commitment to understanding real user needs.
 
-## Who This Is For
+Current priorities include:
 
-## Proposed Features
+- Researching digital accessibility challenges.
+- Understanding first-time smartphone users.
+- Designing supportive learning experiences.
+- Exploring accessible interaction patterns.
+- Building in public.
 
-## Research Questions
+# Documentation
 
-## Design Principles
+The project documentation lives inside the `docs` directory.
 
-## Project Roadmap
+| Document | Purpose |
+|----------|---------|
+| `problem-statement.md` | Defines the problem StayWithMe aims to solve. |
+| `research.md` | Captures observations, assumptions, and future research plans. |
+| `design-principles.md` | Documents the principles guiding every design decision. |
+| `user-personas.md` | Introduces representative users and their needs. |
 
-## Repository Structure
+Additional project documents include:
 
-## How to Contribute
+- `ROADMAP.md`
+- `CONTRIBUTING.md`
+- `CHANGELOG.md`
 
-## Future Vision
+# Project Roadmap
+
+The project will evolve through six phases:
+
+- ✅ Project Foundation
+- 🔄 Product Discovery
+- ⏳ Experience Design
+- ⏳ MVP Development
+- ⏳ Community Testing
+- ⏳ Public Release
+
+See `ROADMAP.md` for the complete roadmap.
+
+# Repository Structure
+
+StayWithMe/
+│
+├── docs/
+│   ├── problem-statement.md
+│   ├── research.md
+│   ├── design-principles.md
+│   └── user-personas.md
+│
+├── ROADMAP.md
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── LICENSE
+└── README.md
+
+# Contributing
+
+Contributions of every size are welcome.
+
+Whether you're improving documentation, sharing research, reporting bugs, suggesting ideas, or writing code, your contribution helps move StayWithMe forward.
+
+Please read `CONTRIBUTING.md` before opening an Issue or Pull Request.
+
+# Looking Ahead
+
+StayWithMe is more than an application.
+
+It's an exploration of what technology could look like if it were designed to teach with patience, encourage confidence, and make digital experiences more accessible for everyone.
+
+We're just getting started.
